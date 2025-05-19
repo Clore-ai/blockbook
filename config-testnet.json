@@ -1,0 +1,22 @@
+{
+  "coin": "PIVX Testnet",
+  "name": "Clore Testnet",
+  "rpc": {
+    "host": "127.0.0.1",
+    "port": 4568,
+    "user": "abc",
+    "password": "abc"
+  },
+  "zmq": {
+    "host": "127.0.0.1",
+    "portRawBlock": 28332,
+    "portRawTx": 28333
+  },
+  "pubkeyhash": [139], 
+  "scripthash": [19],
+  "decimals": 8,
+  "testnet": true,
+  "txCache": true,
+  "addressFormat": "legacy",
+  "blocktime": 60
+}
